@@ -1,0 +1,4 @@
+#Mon Nov 14 19:34:45 BRT 2022
+base.0=C\:\\Users\\USER\\Documents\\pojetos flutter\\lista de tarefas\\lista_de_tarefas\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
